@@ -1,17 +1,17 @@
 # Rohith Assignment 1
 
 **Student Name:** Rohith
-**Register Number:** 250200451
+**Register Number:** 250200029
 **School:** School of Computing and Data Science
-**University:** Chennai Sai University, Chennai
+**University:**  Sai University, Chennai
 **Subject:** Web Development / Internet Programming Lab
 **Assignment:** HTML, CSS & JavaScript Practical Programs Website
 
 ## Educational Background
 
-- **10th Grade:** Sri Chethanya Techno School, Nagaram, East Godavari, Andhra Pradesh — 434/600
-- **Intermediate:** Kakinada Sahasra College — 683/1000
-- **Current:** School of Computing and Data Science, Chennai Sai University
+- **10th Grade:** Sri Chaithanya Techno School, guntur, Andhra Pradesh — 399/600
+- **Intermediate:** sri chaitanya College — 919/1000
+- **Current:** School of Computing and Data Science,  Sai University, chennai.
 
 ## Total programs completed: 158
 
